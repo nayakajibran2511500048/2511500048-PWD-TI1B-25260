@@ -1,0 +1,27 @@
+# pertemuan-09
+
+<ol>
+  <li>Hasil UTS untuk bahan pertemuan-09</li>
+  <li>Membuat form untuk biodata sederhana mahasiswa</li>
+  <li>styling section biodata</li>
+  <li>styling section biodata beres</li>
+  <li>tangkap post dan buat session untuk form biodata</li>
+  <li>session form biodata beres</li>
+  <li>tangkap session dari file proses</li>
+  <li>tangkap session dari file proses selesai</li>
+  <li>echo session ke nilai label section contact</li>
+  <li>echo session ke nilai label section contact selesai</li>
+
+</ol><li>copy seluruh file dari elearning (punya dosen) untuk latihan pertemuan-09</li>
+  <li>mengubah data pos.php ke array associative</li>
+  <li>mengubah baris 23-32 di proses.php</li>
+  <li>Hapus baris kode 19-67 di index.php dan menambahkan section biodata baru sebelum section about</li>
+  <li>Tambahkan baris kode baru setelah baris untuk menampilkan array menggunakan loopingforeach</li>
+  <li>Hapus baris 130-140, karena sudah diakomodir menggunakan perulangan foreach untuk menampilkan isi array
+  associative fieldConfig</li>
+  <li>menambahkan file baru bernama fungsi.php</li>
+  <li>menambahkan function formatTanggal pada fungsi.php</li>
+  <li>menambahkan lagi kode pada fungsi.php untuk merender hasil atau output biodata</li>
+  <li>Hapus baris 123-129 dan menggantikan dengan kode baru</li>
+  <li>menambahkan kode untuk menyertakan file fungsi.php dengan kode require_once</li>
+</ol>
